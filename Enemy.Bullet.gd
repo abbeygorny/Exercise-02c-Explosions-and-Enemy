@@ -1,5 +1,6 @@
 extends KinematicBody2D
 
+
 var velocity = Vector2.ZERO
 var speed = 500.0
 var damage = 1
